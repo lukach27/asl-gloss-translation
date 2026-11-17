@@ -1,0 +1,12 @@
+torch
+transformers
+trl
+peft
+bitsandbytes
+accelerate
+datasets
+pandas
+sacrebleu
+rouge-score
+huggingface_hub
+tqdm
